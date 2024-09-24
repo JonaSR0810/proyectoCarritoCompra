@@ -1,0 +1,52 @@
+.datos{
+  background: rgb(45,77,253);
+background: linear-gradient(0deg, rgba(45,77,253,1) 0%, rgba(0,202,255,0.6559873949579832) 100%);
+    width: 220px;
+    padding: 20px 16px;
+    border-radius: 12px;}
+ .datosmain{
+    display: flex;
+    margin-left: 2%;
+ }
+
+
+.datos img {
+    max-width: 500px;
+    height: auto; 
+    width: 220px; 
+  }
+
+.datos img:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s;
+  }
+
+.datos .descuento10{
+  /* max-width: 100px; */
+    width: 95px;
+    height: 75px;
+  margin-right: 6%;
+  margin-bottom: -13%;
+}
+  
+  /* Estilo específico para la cuarta imagen */
+  .cuarta-imagen {
+    width: 500px; /* Ancho máximo deseado solo para la cuarta imagen */
+    padding-bottom: 54px;
+    margin-top: 20px;
+  }
+
+.precio {
+    margin-left: -75%;
+    color: red;
+    text-decoration: line-through;
+}
+  
+button.añadir{
+  width: 50%;
+  font-size: 15px;
+  font-weight: bold;
+  max-height: 100px;
+  cursor: pointer;
+  bottom: 15px;
+}

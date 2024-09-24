@@ -1,0 +1,46 @@
+[
+    {
+        "imagendescuento": "/imagenes/descuento5.png",
+        "imagen": "/imagenes/iphone.png",
+        "id": "11",
+        "nombre": "Iphone 15 Pro Max 128Gb",
+        "precio":"1500",
+        "descuento": "5"
+    },
+
+    {
+        "imagendescuento": "/imagenes/descuento5.png",
+        "imagen": "/imagenes/asus.png",
+        "id": "12",
+        "nombre": "Laptop Asus TUF Gaming 16Gb RAM, 1TB SSD, Intel Core i9-12900H",
+        "precio":"2999",
+        "descuento": "5"
+    },
+
+    {
+        "imagendescuento": "/imagenes/descuento5.png",
+        "imagen": "/imagenes/watch.png",
+        "id": "13",
+        "nombre": "Apple Watch Ultra",
+        "precio":"600",
+        "descuento": "5"
+    },
+
+    {
+        "imagendescuento": "/imagenes/descuento5.png",
+        "imagen": "/imagenes/nevera.png",
+        "id": "14",
+        "nombre": "Nevera Samsung Ult. Tecnologia Integrada",
+        "precio":"350",
+        "descuento": "5"
+    },
+
+    {
+        "imagendescuento": "/imagenes/descuento5.png",
+        "imagen": "/imagenes/jbl.png",
+        "id": "15",
+        "nombre": "Altavoz Portatil JBL",
+        "precio":"45",
+        "descuento": "5"
+    }
+]
